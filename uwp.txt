@@ -8,9 +8,9 @@
 *Microsoft.SolitaireCollection*
 *ThumbmunkeysLtd.PhototasticCollage*
 *ACGMEDIAPLAYER*
-*Microsoft.BingFinance*                   
-*Microsoft.BingNews*                         
-*Microsoft.BingSports*                       
+*BingFinance*                   
+*BingNews*                         
+*BingSports*                       
 *ThumbmunkeysLtd.PhototasticCollage* 
 *Fitbit.FitbitCoach*
-*CAF9E577.Plex*
+*Plex*
