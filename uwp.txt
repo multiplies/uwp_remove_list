@@ -5,6 +5,12 @@
 *C27EB4BA.DropboxOEM*
 *Amazon.com.Amazon*
 *5A894077.McAfeeSecurity*
-*MicrosoftSolitaireCollection*
+*Microsoft.SolitaireCollection*
 *ThumbmunkeysLtd.PhototasticCollage*
 *ACGMEDIAPLAYER*
+Microsoft.BingFinance                      
+Microsoft.BingNews                         
+Microsoft.BingSports                       
+ThumbmunkeysLtd.PhototasticCollage 
+Fitbit.FitbitCoach
+CAF9E577.Plex 
